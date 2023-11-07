@@ -25,3 +25,4 @@ The code is set up to configure the I/O for PWM output and input capture, initia
 1. Connect OC0 pin directly to ICP1.
 2. connect an oscilloscope to observe the input wave
 3. Observe the period and duty cycle readings on the LCD display.
+"# ICU-Atmega32" 
